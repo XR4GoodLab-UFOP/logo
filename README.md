@@ -2,9 +2,8 @@
 
 ## Colours
 
-Blue: 329fad
-Red: f04e4c
-Gray: 808285
+- Yellow: afdd4c
+- Black: 000000
 
 ## Source
 
